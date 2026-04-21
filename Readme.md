@@ -44,16 +44,6 @@ This README is high-recall, low-detail. `Preface` gives coarse orientation,
 depth role. A pattern's own `Problem frame` is the local high-precision
 first-reading role.
 
-This README is downstream of Core. It may echo `Preface`, `J.4`, and `I.2`,
-but it does not add new first-pattern choices, nearby starting-point clusters,
-or lexical names absent from Core.
-It is not the public canonical entry table, a conformance authority, or a
-getting-started workflow.
-The short entries below name typical stabilizing results, not guaranteed
-outputs, handoffs, or route scripts.
-Update this entry echo when public entry claims change materially, not for every
-local candidate-pattern wording repair inside Core.
-
 Choose your first entry by what you are really trying to decide, stabilize, or
 publish, not by document order. If you are new to FPF, read the entry title and
 opening sentence first; use pattern IDs only after you know the entry matches
@@ -65,7 +55,7 @@ A first practical session often stabilizes one or more of:
 - explicit decision criteria, comparison characteristics, or burden guards;
 - a small alternative set when selection is part of the burden;
 - a visible list of missing evidence or tests before commitment;
-- a starter UTS, a starter DRR, or another burden-native output form.
+- a starter terminology, a starter ADR, or another particular need.
 
 If you first need to decide whether FPF fits your situation, inspect `E.1-E.2`.
 If you need to write or review patterns, inspect `E.8` and `E.19`.
@@ -102,7 +92,7 @@ Use this repository as an entry menu, not as one universal starter trunk:
    Typical stabilizing result: a rewrite, explanation note, repair note, or bounded comparison note that keeps the object of talk stable.  
    First inspect: `A.6.3.CR`, `A.6.3.RT`, `E.17.EFP`, `E.17.ID.CR`, `E.17.AUD.LHR`, and `E.17.AUD.OOTD`.
 
-The older `A.0 -> A.1-A.3 -> B.3 -> F.17 -> E.9` chain is not the universal
+The older abduction reasoning loop (`A.0 -> A.1-A.3 -> B.3 -> F.17 -> E.9`) is here but not the universal
 default anymore. Use `B.3` when assurance / trust / evidence transport is
 already part of the present burden, and use `E.9 (DRR)` when normative change
 or durable canon rationale must actually be published.
@@ -112,6 +102,8 @@ FPF is not:
 - a shrink-wrapped project methodology;
 - a quick-answer cheat sheet;
 - a demand to read the whole specification linearly before doing useful work.
+  
+It is amplifier for collaborative engineering thinking for AI-agents.
 
 ## What stays outside this front door
 
